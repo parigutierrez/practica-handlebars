@@ -1,0 +1,21 @@
+{
+  "name": "handlebars_practica",
+  "version": "1.0.0",
+  "description": "Handlebars",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Handlebars"
+  ],
+  "author": "Parivash",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "materialize-css": "^0.100.1",
+    "materializecss": "^1.0.11",
+    "pug": "^2.0.0-rc.2"
+  }
+}
